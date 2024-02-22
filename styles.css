@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Fredoka:wdth,wght@101.7,478&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Fredoka:wght@300..700&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+body {
+    background-color: rgb(255, 176, 203);
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(115, 0, 38);
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    font-size: 25px;
+    color: rgb(115, 0, 38);
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+hr {
+    color: rgb(115, 0, 38);
+}
+
+p {
+    color: rgb(115, 0, 38);
+
+}
+
+hr {
+    border: 1px dashed;
+    border-color: rgb(197, 0, 85);
+}
+h3 {
+    font-size: 15px;
+    color: rgb(115, 0, 38);
+}
+
+pre {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: rgb(115, 0, 38);
+}
